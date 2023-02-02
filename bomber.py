@@ -287,7 +287,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt seems That Your Internet Speed is Slow or You Are Using Proxies...")
-        print('\t\tCyberGhostWeapon Will Stop Now...\n\n')
+        print('\t\tMrTusarRX Will Stop Now...\n\n')
         banner()
         exit()
 
@@ -706,7 +706,7 @@ def start(target, counter, delay, ch, cc):
             api = random.choice(ch)
         except Exception:
             if cc == "91":
-                print('Sorry All APIs Have Expired Please Update CyberGhostWeapon')
+                print('Sorry All APIs Have Expired Please Update MrTusarRX')
                 input('Press Enter To Exit...')
                 exit()
             else:
@@ -738,7 +738,7 @@ def start(target, counter, delay, ch, cc):
         print("             Failed Requests         : ", failed)
         print("==================================================================")
         print("              Use this for fun, not for revenge !!                ")
-        print("              This Bomber Was Created By CyberGhost !!                ")
+        print("              This Bomber Was Created By MrTusarRX !!                ")
         print("==================================================================")
         try:
             result = getapi(target, api, cc)
@@ -767,7 +767,7 @@ def update():
         print('\n\t\tUpdated Successfull !!!!')
         print('\tPlease Run The Script Again...')
     else:
-        print("Please reclone CyberGhostWeapon Again")
+        print("Please reclone MrTusarRX Again")
     sys.exit()
 
 
@@ -781,7 +781,7 @@ except Exception:
     input('Exiting....\n Press Enter To Continue....')
     exit()
 print("Your Version is Up-To-Date")
-print('\n\n\t\t\tStarting CyberGhostWeapon...\n\n')
+print('\n\n\t\t\tStarting MrTusarRX...\n\n')
 try:
     noti = urllib.request.urlopen(
         "#").read().decode('utf-8')
@@ -879,7 +879,7 @@ if cbomb:
 if nm == 0:
     nt = int(input("\tNumber Of Threads(10 to 20) : "))
     if nt <= 0 or nt >= 30:
-        print('\tCyberGhostWeapon Shows Better Result in 10 to 25 Threads\n\t\tStill Continuing....')
+        print('\tMrTusarRX Shows Better Result in 10 to 25 Threads\n\t\tStill Continuing....')
     print("\n\nPlease Remember That This Is in Experimental Stage And Is Incredibly Fast...")
     t = [None] * nt
     print(random.choice(colors))
@@ -892,7 +892,7 @@ if nm == 0:
     print("             Delay               : ", dl)
     print("==================================================================")
     print("              Use this for fun, not for revenge !!                ")
-    print("              This Bomber Was Created By CyberGhost !        ")
+    print("              This Bomber Was Created By MrTusarRX !        ")
     print("==================================================================")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
