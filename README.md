@@ -69,7 +69,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/MrHarshArora/CyberGhostWeapon.git
+git clone https://github.com/MrTusarRX/BOMBING.git
 cd CyberGhostWeapon
 chmod +x CyberGhostWeapon.sh
 sudo bash CyberGhostWeapon.sh
@@ -89,9 +89,10 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/MrHarshArora/CyberGhostWeapon.git
+git clone https://github.com/MrTusarRX/BOMBING.git
 cd CyberGhostWeapon
 chmod +x CyberGhostWeapon.sh
+THIS IS COPY BY ME ONL EDUCATION
 
 # Missing Tools on MacOS
 
@@ -113,6 +114,6 @@ Feel Free To Open An Issue...
        YouTube Channel: https://www.youtube.com/c/CyberGhost
 ```
 
-<a href="https://www.youtube.com/channel/UCM8l2r-7JyN6MdQQweDPGcA?view_as=subscriber">Check Out My YouTube Channel</a>
+<a href="https://www.youtube.com/channel/UCol5J1gg7wUOBaK-UVC4uLQ">Check Out My YouTube Channel</a>
 
 
