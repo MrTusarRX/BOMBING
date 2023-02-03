@@ -53,8 +53,8 @@ pkg install git
 pkg install python
 git clone https://github.com/MrTusarRX/BOMBING.git
 cd BOMBING
-chmod +x SMS_bomber_version2.py
-./SMS_bomber_version2.py
+chmod +x MrTusarRX.sh
+./MrTusarRX.sh
 ```
 
 ### > For Linux:
