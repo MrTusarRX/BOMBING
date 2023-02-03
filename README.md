@@ -1,9 +1,9 @@
-<h1 align="center">CyberGhost Weapon v1.0</h1>
-<p align="center">An Ultimate CyberGhost's  SMS/call bomber For Linux and Termux</p><br>
+<h1 align="center">MrTusarRX v1.0</h1>
+<p align="center">An MrTusarRX's  SMS/call bomber For Linux and Termux</p><br>
 
 ## Note:
 
-**Due misusing of CyberGhostWeapon, several API's died.**  
+**Due misusing of MrTusaRX, several API's died.**  
 **Don't be afraid if you don't see all send messages.**
 
 - The script requires working network connection to work.
@@ -36,7 +36,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Usage:
 
-Run these commands to run CyberGhostWeapon
+Run these commands to run MrTusarRX
 
 ### > For Termux:
 
@@ -52,9 +52,9 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/MrTusarRX/BOMBING.git
-cd CyberGhostWeapon
-chmod +x CyberGhostWeapon.sh
-./CyberGhostWeapon.sh
+cd BOMBING
+chmod +x BOMBING.sh
+./BOMBING.sh
 ```
 
 ### > For Linux:
@@ -90,17 +90,17 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/MrTusarRX/BOMBING.git
-cd CyberGhostWeapon
-chmod +x CyberGhostWeapon.sh
+cd BOMBING
+chmod +x BOMBING.sh
 THIS IS COPY BY ME ONL EDUCATION
 
 # Missing Tools on MacOS
 
 Toilet cannot be installed yet. But CyberGhostWeapon does still work.
 
-# Run CyberGhostWeapon:
+# Run MrTusarRX:
 
-sudo bash CyberGhostWeapon.sh
+sudo bash MrTusarRX.sh
 ```
 
 ## Demontrative Video:
@@ -110,8 +110,8 @@ sudo bash CyberGhostWeapon.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: cyb3r.gh02t.ha@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/CyberGhost
+                 Mail: khantusar717@gmail.com<br>
+       YouTube Channel:https://www.youtube.com/channel/UCol5J1gg7wUOBaK-UVC4uLQ
 ```
 
 <a href="https://www.youtube.com/channel/UCol5J1gg7wUOBaK-UVC4uLQ">Check Out My YouTube Channel</a>
