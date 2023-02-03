@@ -70,9 +70,9 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/MrTusarRX/BOMBING.git
-cd CyberGhostWeapon
-chmod +x CyberGhostWeapon.sh
-sudo bash CyberGhostWeapon.sh
+cd BOMBING
+chmod +x MrTusarRX.sh
+sudo bash MrTusarRX.sh
 ```
 
 ### > For macOS:
@@ -96,7 +96,7 @@ THIS IS COPY BY ME ONL EDUCATION
 
 # Missing Tools on MacOS
 
-Toilet cannot be installed yet. But CyberGhostWeapon does still work.
+Toilet cannot be installed yet. But MrTusarRX does still work.
 
 # Run MrTusarRX:
 
