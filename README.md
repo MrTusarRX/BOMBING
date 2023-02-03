@@ -53,8 +53,8 @@ pkg install git
 pkg install python
 git clone https://github.com/MrTusarRX/BOMBING.git
 cd BOMBING
-chmod +x BOMBING.sh
-./BOMBING.sh
+chmod +x MrTusarRX.sh
+./MrTusarRX.sh
 ```
 
 ### > For Linux:
@@ -91,7 +91,7 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/MrTusarRX/BOMBING.git
 cd BOMBING
-chmod +x BOMBING.sh
+chmod +x MrTusarRX.sh
 THIS IS COPY BY ME ONL EDUCATION
 
 # Missing Tools on MacOS
