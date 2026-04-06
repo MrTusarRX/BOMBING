@@ -5,6 +5,8 @@
 
 **Due misusing of MrTusaRX, several API's died.**  
 **Don't be afraid if you don't see all send messages.**
+**Use new Update its powerful and workes perfectly**
+https://github.com/MrTusarRX/otp-boomber
 
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS/calls.
